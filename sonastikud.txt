@@ -1,0 +1,5 @@
+programmeerimine:Java,C++,Python
+loodus:mets,meri,loomad
+matemaatika:arvud,geomeetria,algebra
+loomad: koer, kass, hunt, karu, hobune, lehm, uss, kala
+tehnika: arvuti, telefon, telekas, kõrvaklapid, käekell, kõlar, tahvelarvuti
